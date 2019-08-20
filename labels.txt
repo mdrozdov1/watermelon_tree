@@ -1,0 +1,16 @@
+DoS attacks-GoldenEye
+DDOS attack-HOIC
+Brute Force -XSS
+Benign
+DDoS attacks-LOIC-HTTP
+SSH-Bruteforce
+DoS attacks-Slowloris
+FTP-BruteForce
+DDOS attack-LOIC-UDP
+Bot
+DoS attacks-Hulk
+Brute Force -Web
+Infilteration
+Label
+SQL Injection
+DoS attacks-SlowHTTPTest
