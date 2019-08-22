@@ -19,4 +19,5 @@ for i in range(1,11):
             data_writer.writerow(attacks_new.iloc[row].tolist())
         
     del attacks_new
+    print('cleaned attacks{i})
     
